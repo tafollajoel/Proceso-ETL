@@ -1,0 +1,73 @@
+<xml>
+    <header>
+        <id>01</id>
+        <marca>Motorola</marca>
+		<origen>Chicago Illinois</origen>
+        <descripcion>Motorola se fundó como Galvin Manufacturing Corporation, tenía una plantilla de cinco empleados y su intención en principio era la de fabricar un eliminador de baterías; un dispositivo que permite a los radios que usan batería funcionar con energía eléctrica.</descripcion>
+    </header>
+    <telefonos id="23221">
+        <telefono>Moto E7 plus </telefono>
+        <descripcion>Smartphone Motorola Moto E7 Plus 64GB Azul Desbloqueado Motorola Desbloqueado </descripcion>
+        <precio>3800 </precio>
+    </telefonos>
+    <telefonos id="23225">
+        <telefono>Moto G pro 128 </telefono>
+        <descripcion>Smartphone Motorola G Pro 128 GB Azul Índigo Místico Desbloqueado </descripcion>
+        <precio>5600 </precio>
+    </telefonos>
+    <telefonos id="23225">
+        <telefono>Moto G9 Play </telefono>
+        <descripcion>Smartphone Moto G9 Play 64 GB Azul Eléctrico con Motobuds </descripcion>
+        <precio>5600</precio>
+    </telefonos>
+    <telefonos id="45683">
+        <telefono>Moto G 5G </telefono>
+        <descripcion>Smartphone Moto G 5G 128 GB Morado</descripcion>
+        <precio>8000</precio>
+    </telefonos>
+    <telefonos id="09876">
+        <telefono>Moto G8 Plus </telefono>
+        <descripcion>Smartphone Motorola Moto G8 Plus 64GB Azul Nocturno</descripcion>
+        <precio>6500</precio>
+    </telefonos>
+    <telefonos id="45205">
+        <telefono>Moto E7i Power </telefono>
+        <descripcion>Smartphone Motorola Moto E7i Power 32 GB Azul</descripcion>
+        <precio>3500</precio>
+    </telefonos>
+    <telefonos id="11120">
+        <telefono>Moto g100 </telefono>
+        <descripcion> Smartphone Motorola Moto g100  128 GB Azul Nimbus</descripcion>
+        <precio> 12500 </precio>
+    </telefonos>
+    <telefonos id="56785">
+        <telefono>Motorola Razr </telefono>
+        <descripcion>Smartphone Motorola Razr 256 GB Blush Gold </descripcion>
+        <precio>35000</precio>
+    </telefonos>
+    <telefonos id="14546">
+        <telefono>Motorola Edge </telefono>
+        <descripcion>Smartphone Moto Motorola Edge 128 GB Color Gris Midnight Desbloqueado</descripcion>
+        <precio>16000</precio>
+    </telefonos>
+    <telefonos id="90906">
+        <telefono>Motorola Edge Plus </telefono>
+        <descripcion>Smartphone Motorola Edge Plus 256 GB Azul Nocturno</descripcion>
+        <precio>20000</precio>
+    </telefonos>
+	<telefonos id="67908">
+        <telefono>Moto G60 </telefono>
+        <descripcion>Smartphone Motorola Moto G60 128 GB Dorado Perla Plata</descripcion>
+        <precio>3500</precio>
+    </telefonos>
+    <telefonos id="55555">
+        <telefono>Moto G20 </telefono>
+        <descripcion>Smartphone Motorola Moto G20 64 GB Azul Cielo Rosa</descripcion>
+        <precio>4600</precio>
+    </telefonos>
+    <telefonos id="02569">
+        <telefono>Motorola One Fusion </telefono>
+        <descripcion>Smartphone Motorola One Fusion 128 GB Plata Esmeralda</descripcion>
+        <precio>5000</precio>
+    </telefonos>
+</xml>
